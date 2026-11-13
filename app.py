@@ -210,4 +210,4 @@ with tab4:
 
 # --- FOOTER ---
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #64748b; font-size: 14px;'>Developed with ❤️ for Visualisasi Data dan Informasi | Universitas Sebelas April</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #64748b; font-size: 14px;'>🚀 Multi-DBMS E-Commerce Analytics Dashboard | Built with Python & Streamlit</p>", unsafe_allow_html=True)
